@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-    <a href="https://github.com/TheArchitect123/SwiftTcp"><img src="./swift.jpg" align="center" width=350/></a>
+    <a href="https://github.com/TheArchitect123/SwiftTcp"><img src="./swift.jpg" align="center" width=150/></a>
 </p>
 
 <p align="center">
